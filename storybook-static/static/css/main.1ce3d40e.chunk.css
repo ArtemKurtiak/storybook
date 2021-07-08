@@ -1,0 +1,23 @@
+.btn{
+    outline: none;
+    border-radius: 3px;
+    border: 0;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.danger{
+    background-color: red;
+}
+.success{
+    background-color: green;
+}
+.warning{
+    background-color: yellow;
+}
+.primary{
+    background-color: #d9d3d3;
+}
+
+
+/*# sourceMappingURL=main.1ce3d40e.chunk.css.map*/
